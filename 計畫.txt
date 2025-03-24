@@ -1,0 +1,10 @@
+遠程開關
+
+1.  外網連接? : websocket 、 MQTT
+
+2.  環境偵測 : 溫溼度
+
+3.  氣象資料 : API 、 data.gov.tw
+
+
+
